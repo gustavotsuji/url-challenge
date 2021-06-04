@@ -1,0 +1,19 @@
+{
+  "name": "bluecoding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.3",
+    "puppeteer": "^10.0.0",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
